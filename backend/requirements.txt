@@ -1,0 +1,9 @@
+Django==5.2.2
+djangorestframework==3.14.0
+google-cloud-dialogflow-cx==1.28.1
+google-cloud-bigquery==3.14.1
+google-cloud-aiplatform==1.38.1
+twilio==8.12.0
+google-cloud-logging==3.9.0
+python-dotenv==1.0.1
+django-cors-headers==4.3.1
